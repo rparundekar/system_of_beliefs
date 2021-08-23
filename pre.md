@@ -8,7 +8,7 @@ Beliefs cannot be part of the System unless they are (a) [incorporated](#Incorpo
 
 There are two general types of document that need to be submitted to the System to make a belief a part of it:
   1. **Belief Document** - An electronic document stating the belief: 
-      * a [belief document](#Belief Document), 
+      * a [belief document](#Belief_Document), 
       * this [Incorporation Document](#Incorporation_Document).
   2. **Action Document** - An electronic document ddescribing the following actions that entities can take on these beliefs.
       * [Introduction Document](#Introduction_Document)
