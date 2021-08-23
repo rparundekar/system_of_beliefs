@@ -3,10 +3,10 @@ This electronic document represents the first belief incorporated into the Syste
 
 The System of Beliefs is an abstract network of electronic documents expressing the beliefs held by entities such as people and organizations. 
 
-## How Does a Belief Become Part of the System
-Beliefs cannot be part of the System unless they are (a) [incorporated](#Incorporation) into the System, or (b) are [adopted](#Adoption) by the entities that hold that belief, [shared](Sharing) with one or more entities, and [accepted](#Acceptance) by those entities. 
+## How Does a Belief Become Part of the System?
+Before submitting a belief, an entity should first [introduce](#Introduction_Document) themselves. Beliefs cannot be part of the System unless they are (a) [incorporated](#Incorporation_Document) into the System, or (b) are [adopted](#Adoption_Document) by the entities that hold that belief, [shared](Sharing) with one or more entities, and [accepted](#Acceptance_Document) by those entities. Acceptance here refers to checks that the receiver might do to confirm that the belief is not unreasonable. To make beliefs usable between entity, verification of the validity of the statements in the belief might be needed. The receiver may [attest](#Attestation_Document) this belief to be true if it can independently verify the truth of the belief. 
 
-There are two general types of documents that need to be submitted to the System to make a belief a part of it:
+We can categorize the documents that need to be submitted to the System to make a belief a part of it into two general categories:
   1. **Belief Documents** - An electronic document stating the belief: 
       * a [belief document](#Belief_Document), 
       * this [Incorporation Document](#Incorporation_Document).
