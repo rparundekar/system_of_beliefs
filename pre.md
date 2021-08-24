@@ -1,7 +1,7 @@
 # The System of Beliefs
 This electronic document represents the first belief incorporated into the System of Beliefs (hereinafter referred to as the "System") on [INSERT TIMESTAMP]. 
 
-The System of Beliefs is an abstract network of electronic documents expressing the beliefs held by entities such as people and organizations. 
+The System of Beliefs is an organization of electronic documents expressing beliefs held by entities such as people and organizations.
 
 ## How Does a Belief Become Part of the System?
 Before submitting a belief, an entity should first [introduce](#Introduction_Document) themselves. Beliefs cannot be part of the System unless they are (a) [incorporated](#Incorporation_Document) into the System, or (b) are [adopted](#Adoption_Document) by the entities that hold that belief, [shared](Sharing) with one or more entities, and [accepted](#Acceptance_Document) by those entities. Acceptance here refers to checks that the receiver might do to confirm that the belief is not unreasonable. To make beliefs usable between entity, verification of the validity of the statements in the belief might be needed. The receiver may [attest](#Attestation_Document) this belief to be true if it can independently verify the truth of the belief. 
