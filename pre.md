@@ -141,14 +141,20 @@ The attestation document needs to contain:
   * `previous: <unique_id>` - A UUID v4 unique identifier for the previous action document by this entity.
   * `next: <unique_id>` - A UUID v4 unique identifier for the next action document by this entity.
 
-#### Chain of Beliefs
-The belief document should also contain a link 
-
 ## Sharing 
 That entity can then share these two electronic documents with anyone who is willing to accept it. The belief document need not always be shared - for example, if the  
 
+
+## Chain of Actions and Network of Beliefs
+A chain of documents is formed for each user starting from their introduction document to the most recent action that they perform. Tracing the previous action id helps us follow all the evolved beliefs of the entity as they adopt it or track the beliefs they have accepted or attested. Constraining the next identifier allows us to prevent a user from having multiple simultaneous actions - preventing a Directed Acyclic Graph for that user. 
+
+When we consider documents from across different entities, we see a Directed Acyclic Graph of beliefs and actions emerging which allows for interoperability.
+
 ## Trust
+
+## Bad Actors
 
 ## Provenance
 
 ## Encryption
+
