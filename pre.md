@@ -32,7 +32,7 @@ The introduction document needs to contain:
 - an identifier for the introduction document, 
 - the public key of the entity, 
 - the timestamp that the belief is adopted, 
-- the identifier that the entity will use for their next action document,
+- the identifier that the entity will use for their next action document, which should not be an id that they have previously used,
 - a hash of the above information, 
 - and a signature with their private key on that hash 
 
@@ -64,7 +64,7 @@ The adoption document needs to contain:
 - the id of the belief document, 
 - the timestamp that the belief is adopted, 
 - the identifier for the previous action document by the believer,
-- the identifier that the entity will use for their next action document,
+- the identifier that the entity will use for their next action document, which should not be an id that they have previously used,
 - a hash of the above information, 
 - and a signature with their private key on that hash 
 
@@ -97,7 +97,7 @@ The acceptance document needs to contain:
 - the id of the adoption document that is accepted, 
 - the timestamp that the adoption document is accepted, 
 - the identifier for the previous action document by the accepter,
-- the identifier that the accepter will use for their next action document,
+- the identifier that the entity will use for their next action document, which should not be an id that they have previously used,
 - a hash of the above information, 
 - and a signature with their private key on that hash 
 
@@ -123,7 +123,7 @@ The attestation document needs to contain:
 - the ids of the belief and action documents attested, 
 - the timestamp of the attestation, 
 - the identifier for the previous action document by the attester,
-- the identifier that the attester will use for their next action document,
+- the identifier that the entity will use for their next action document, which should not be an id that they have previously used,
 - a hash of the above information, 
 - and a signature with their private key on that hash 
 
